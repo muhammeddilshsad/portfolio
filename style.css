@@ -436,4 +436,8 @@ span{
    height: 300px;
    width: 450px;
 }
-
+@media (max-width: 430px) {
+    .home-img{
+        margin-left: 50rem;
+    }
+}
